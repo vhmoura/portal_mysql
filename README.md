@@ -1,4 +1,6 @@
 
+<PORTUGUESE - PORTUGUES > 
+  
 Portal de noticias usando banco de dados MYSQL.
 
 Para acessar, utilize o endereço http://localhost:3000/
